@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://raw.githubusercontent.com/fatimadeveloper14/Pinterest-Website/main/banner.png)
 <h1>Hi ,I am Dua Fatima</h1>
 <h2>I make a  Pinterest-Website</h2>
 I Developed this Repo For CSS-Assignment-25.
